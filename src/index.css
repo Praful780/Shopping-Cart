@@ -2,6 +2,9 @@
 
 .spinner {
     width: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 56px;
     border-radius: 50%;
     background: conic-gradient(#0000 10%,#474bff);
